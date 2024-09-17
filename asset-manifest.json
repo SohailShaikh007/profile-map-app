@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/profile-map-app/static/css/main.84914b3a.css",
+    "main.js": "/profile-map-app/static/js/main.e4f7614a.js",
+    "static/js/453.7d7c34da.chunk.js": "/profile-map-app/static/js/453.7d7c34da.chunk.js",
+    "index.html": "/profile-map-app/index.html",
+    "main.84914b3a.css.map": "/profile-map-app/static/css/main.84914b3a.css.map",
+    "main.e4f7614a.js.map": "/profile-map-app/static/js/main.e4f7614a.js.map",
+    "453.7d7c34da.chunk.js.map": "/profile-map-app/static/js/453.7d7c34da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84914b3a.css",
+    "static/js/main.e4f7614a.js"
+  ]
+}
